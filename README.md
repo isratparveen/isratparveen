@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isratparveen
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me isratp03@gmail.com
 
 <!---
